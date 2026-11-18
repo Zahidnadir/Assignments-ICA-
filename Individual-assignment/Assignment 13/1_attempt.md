@@ -25,4 +25,4 @@ The mean and median provide different measures of typical rice prices. Since the
 
 The first-to-last comparison also shows an increase of approximately 33.3% in the recorded rice price. However, the dataset only shows the change in prices and does not establish its cause. Any explanation involving transportation costs or market conditions would require additional evidence.
 
-Git Commit:
+Git Commit: a04707b
