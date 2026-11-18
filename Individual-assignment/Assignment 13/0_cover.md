@@ -1,19 +1,26 @@
 Assignment 3: Two Averages, One Argument
 
-Course: Introduction to Data Analysis  
-Assignment: DA-3 – Descriptive Analysis  
-Student Name: Zahid Nadir  
-ERP ID: 33572  
+Course: ICA-F26 - The Prices Desk  
+Topic: Week 3 - Descriptive Analytics  
+Assignment: Assignment 3 - Two Averages, One Argument
+
+Student Information
+
+Student Name:  
+Student ID:
+Section: 11: 30 AM
 
 
 Assignment Overview
 
-This assignment focuses on descriptive analytics using the cleaned teaching data. It involves calculating mean, median, and percentage change, preparing a referee's note, and evaluating AI generated interpretations of the statistics.
+This assignment examines the use of descriptive statistics to understand price movements and compare two different measures of central tendency: the mean and the median.
 
-Files Submitted
+The provided dataset contains illustrative prices for four basic commodities across two cities over twelve observation dates.
 
-1. 0_cover.md - Assignment cover page.
-2. 1_attempt.md - Initial attempt before using AI.
-3. 2_work.ipynb - Data analysis and calculations.
-4. 3_audit.md - Verification and evaluation of AI interpretations.
+The purpose of this assignment is to understand how different averages can describe the same dataset differently and how statistical evidence should be used to support an argument.
+
+Files Used
+
+- teaching_prices_clean.csv 
+- Assignment 13 - DA-3-Two Averages, One Argument.pdf - Assignment instructions.
 
